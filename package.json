@@ -10,8 +10,10 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "faker": "5.5.3",
     "react": "18.1.0",
-    "react-native": "0.70.6"
+    "react-native": "0.70.6",
+    "react-native-reanimated": "^3.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
